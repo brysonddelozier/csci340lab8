@@ -364,3 +364,4 @@
 /Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/obj/Debug/net10.0/RazorPagesMeme.pdb
 /Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/obj/Debug/net10.0/RazorPagesMeme.genruntimeconfig.cache
 /Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/obj/Debug/net10.0/ref/RazorPagesMeme.dll
+/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/obj/Debug/net10.0/RazorPagesMeme.sourcelink.json

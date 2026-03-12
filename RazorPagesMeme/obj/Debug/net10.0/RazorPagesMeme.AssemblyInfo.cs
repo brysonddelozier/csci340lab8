@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorPagesMeme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d86f9227c706da57500ab0f9dcf9394e8e77a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorPagesMeme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorPagesMeme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

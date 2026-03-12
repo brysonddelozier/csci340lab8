@@ -11,4 +11,7 @@ public class Meme
     public DateTime Date { get; set; }
     public string? Origin { get; set; }
     public int Funniness { get; set; }
+
+    [Display(Name = "Celebrity Endorsement")]
+    public string CelebrityEndorsement { get; set; } = string.Empty;
 }

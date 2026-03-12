@@ -36,6 +36,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Meme[0].Funniness)
             </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Meme[0].CelebrityEndorsement)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -53,6 +56,9 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Funniness)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CelebrityEndorsement)
             </td>
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |

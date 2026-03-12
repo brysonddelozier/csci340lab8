@@ -28,7 +28,8 @@ public static class SeedData
                     Name = "DaBaby",
                     Date = DateTime.Parse("2020-8-24"),
                     Origin = "Tik Tok",
-                    Funniness = 6
+                    Funniness = 6,
+                    CelebrityEndorsement = "Himself"
                 },
 
                 new Meme
@@ -36,7 +37,8 @@ public static class SeedData
                     Name = "67",
                     Date = DateTime.Parse("2025-3-31"),
                     Origin = "Tik Tok",
-                    Funniness = 7
+                    Funniness = 7,
+                    CelebrityEndorsement = "LaMelo Ball"
                 },
 
                 new Meme
@@ -44,7 +46,8 @@ public static class SeedData
                     Name = "Damn Daniel",
                     Date = DateTime.Parse("2016-2-15"),
                     Origin = "Vine",
-                    Funniness = 8
+                    Funniness = 8,
+                    CelebrityEndorsement = "Ellen DeGeneres"
                 },
 
                 new Meme
@@ -52,7 +55,8 @@ public static class SeedData
                     Name = "Mans Not Hot",
                     Date = DateTime.Parse("2017-5-10"),
                     Origin = "Instagram",
-                    Funniness = 8
+                    Funniness = 8,
+                    CelebrityEndorsement = "DJ Khaled"
                 }
             );
             context.SaveChanges();
