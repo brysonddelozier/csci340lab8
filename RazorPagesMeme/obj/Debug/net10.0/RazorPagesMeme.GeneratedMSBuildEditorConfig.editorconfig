@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.RootNamespace = RazorPagesMeme
+build_property.RootNamespace = RazorPagesMeme
+build_property.ProjectDir = /Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Memes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Memes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Memes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Memes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Memes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brysondelozier/Desktop/csci340/csci340lab8/RazorPagesMeme/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uuxllmw5me
