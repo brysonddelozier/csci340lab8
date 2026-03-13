@@ -7,7 +7,7 @@ public class Meme
 {
     public int Id { get; set; }
 
-    [StringLength(60, MinimumLength = 3)]
+    [StringLength(60, MinimumLength = 1)]
     [Required]
     public string? Name { get; set; } = string.Empty;
 
@@ -18,7 +18,6 @@ public class Meme
     public string? Origin { get; set; }
     
     [Range(1, 10)]
-    [DataType(DataType.Integer)]
     public int Funniness { get; set; }
 
     [Display(Name = "Celebrity Endorsement")]
